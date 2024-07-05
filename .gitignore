@@ -4,4 +4,4 @@ words/model-words-2/
 words/my_model-words/
 # Exclude all .zip files
 *.zip
-.ipynb_checkpoints/
+**/.ipynb_checkpoints/
