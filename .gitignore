@@ -1,0 +1,6 @@
+Models/
+words/model-words/
+words/model-words-2/
+words/my_model-words/
+# Exclude all .zip files
+*.zip
